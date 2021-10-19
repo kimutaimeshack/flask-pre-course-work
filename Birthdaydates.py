@@ -1,5 +1,6 @@
 #Create a program where you prompt a user for their age and return the year they were born.
 #After that, return the year they will turn 80.
+import sys
 
 print("How old are you?")
 name = int(input())
